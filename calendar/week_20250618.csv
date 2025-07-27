@@ -1,0 +1,114 @@
+timestamp,currency,impact,event,actual,forecast,previous,day,event_id
+2025-06-18 02:00:00,USD,Low Impact Expected,API Weekly Statistical Bulletin,,,,WedJun 18,56cad7aa6224416ee1095e6f6bfd7a7e
+2025-06-18 02:30:00,NZD,Low Impact Expected,Westpac Consumer Sentiment,91.2,,89.2,WedJun 18,c6fe78947e94755cce0e70c426f88f3f
+2025-06-18 04:15:00,NZD,Low Impact Expected,Current Account,-2.32B,-2.19B,-7.04B,WedJun 18,bf74653793c7588fef7cdc9239f628fc
+2025-06-18 05:20:00,JPY,Low Impact Expected,Core Machinery Orders m/m,-9.1%,-9.3%,13.0%,WedJun 18,270abc4e21c021e8e5940a8f49bb040c
+2025-06-18 05:20:00,JPY,Low Impact Expected,Trade Balance,-0.31T,-0.37T,-0.41T,WedJun 18,60c45947fc51f55264020eb671a7d502
+2025-06-18 06:00:00,AUD,Low Impact Expected,MI Leading Index m/m,-0.1%,,0.0%,WedJun 18,613aa3d39c6f2f17b7f6c9eac6471fe2
+2025-06-18 11:30:00,GBP,High Impact Expected,CPI y/y,3.4%,3.3%,3.5%,WedJun 18,b327b20082bcab86e48663f024b98f1e
+2025-06-18 11:30:00,GBP,Low Impact Expected,Core CPI y/y,3.5%,3.5%,3.8%,WedJun 18,0798137e4c6523558029eaf9f5068678
+2025-06-18 11:30:00,GBP,Low Impact Expected,RPI y/y,4.3%,4.2%,4.5%,WedJun 18,e1da5e224b8d391c954ebc03e546c2fa
+2025-06-18 13:30:00,EUR,Low Impact Expected,Current Account,19.8B,40.4B,50.9B,WedJun 18,0f406d6edc3db1278a4efe232ab0fc11
+2025-06-18 14:00:00,GBP,Low Impact Expected,HPI y/y,3.5%,5.6%,6.4%,WedJun 18,e8516034c900336dc7316b56b0362b31
+2025-06-18 14:30:00,EUR,Low Impact Expected,Final Core CPI y/y,2.3%,2.3%,2.3%,WedJun 18,ea51f3f0c7c0e949b79534f7bb9f75e1
+2025-06-18 14:30:00,EUR,Low Impact Expected,Final CPI y/y,1.9%,1.9%,1.9%,WedJun 18,6a4db770566db447b018bbb9e8c39eb1
+2025-06-18 15:08:00,EUR,Low Impact Expected,German 30-y Bond Auction,2.99|2.2,,3.12|2.3,WedJun 18,471b903bceab2220a89216f9665ee329
+2025-06-18 18:00:00,USD,High Impact Expected,Unemployment Claims,245K,246K,248K,WedJun 18,7e0d15f99589a01514028271f12a60f8
+2025-06-18 18:00:00,USD,Low Impact Expected,Building Permits,1.39M,1.42M,1.41M,WedJun 18,ea12823723b699192fe2fdac7a7d0e4a
+2025-06-18 18:00:00,USD,Low Impact Expected,Housing Starts,1.26M,1.35M,1.36M,WedJun 18,a7c22ac808ec7688999f53d1095cdc3c
+2025-06-18 20:00:00,AUD,Low Impact Expected,CB Leading Index m/m,0.7%,,-0.4%,WedJun 18,9a70c996a759255c668b70184a606090
+2025-06-18 20:00:00,USD,Low Impact Expected,Crude Oil Inventories,-11.5M,-2.3M,-3.6M,WedJun 18,10d77779f8d9aa7733c681b3cf7d0367
+2025-06-18 20:45:00,CAD,High Impact Expected,BOC Gov Macklem Speaks,,,,WedJun 18,2cfa5fcd53da1aee924953cbf28e835a
+2025-06-18 21:30:00,USD,Low Impact Expected,Natural Gas Storage,95B,96B,109B,WedJun 18,a908d7ddabe00da32ac756f97a49f7aa
+2025-06-18 23:30:00,USD,High Impact Expected,Federal Funds Rate,4.50%,4.50%,4.50%,WedJun 18,2f2f7a6df09e3b3854a537eaecd48f2c
+2025-06-18 23:30:00,USD,High Impact Expected,FOMC Economic Projections,,,,WedJun 18,c65ce3664c90f2937412c7a3895cee0d
+2025-06-18 23:30:00,USD,High Impact Expected,FOMC Statement,,,,WedJun 18,114a58bb6ca1fe33bea1b813f2112f2e
+2025-06-19 00:00:00,USD,High Impact Expected,FOMC Press Conference,,,,ThuJun 19,0303c05c6354f7d7ca1de3c539748321
+2025-06-19 01:30:00,USD,Low Impact Expected,TIC Long-Term Purchases,-7.8B,142.4B,161.8B,ThuJun 19,a33d04f3a776e6ef04a3e910bbd2192b
+2025-06-19 04:15:00,NZD,High Impact Expected,GDP q/q,0.8%,0.7%,0.7%,ThuJun 19,7922c4f0b270d0b40ca7c5b87668e5ff
+2025-06-19 07:00:00,AUD,High Impact Expected,Employment Change,-2.5K,20.6K,89.0K,ThuJun 19,fdc0e7d677f11f14e9e51a393cf1ca0d
+2025-06-19 07:00:00,AUD,High Impact Expected,Unemployment Rate,4.1%,4.1%,4.1%,ThuJun 19,cb4381e414cc048fdfd53f34e8cf12f7
+2025-06-19 10:00:00,CHF,Low Impact Expected,SNB Financial Stability Report,,,,ThuJun 19,f08030dc96d115bee83a5a44070920a3
+2025-06-19 11:30:00,CHF,Low Impact Expected,Trade Balance,3.83B,5.85B,6.36B,ThuJun 19,35152a92e5dda95c40a6d00d9cc8ce39
+2025-06-19 13:00:00,CHF,High Impact Expected,SNB Monetary Policy Assessment,,,,ThuJun 19,08b5ea0fd7a59db708d6fac0123a734f
+2025-06-19 13:00:00,CHF,High Impact Expected,SNB Policy Rate,0.00%,0.00%,0.25%,ThuJun 19,d095bc05dafc56421bbeae2bdf5e2020
+2025-06-19 13:30:00,CHF,High Impact Expected,SNB Press Conference,,,,ThuJun 19,30bbac00555b65586d6cbed7e8b87e99
+2025-06-19 14:15:00,EUR,Low Impact Expected,Spanish 10-y Bond Auction,3.21|1.7,,3.35|1.9,ThuJun 19,b39a7698d870178e8b31c61891093860
+2025-06-19 14:30:00,EUR,Low Impact Expected,German Buba President Nagel Speaks,,,,ThuJun 19,b78d1b71b80872618adb13a5afeb943e
+2025-06-19 14:45:00,EUR,Low Impact Expected,Eurogroup Meetings,,,,ThuJun 19,655f835ac8c718ec5e5b25c54a10b207
+2025-06-19 16:30:00,GBP,High Impact Expected,Monetary Policy Summary,,,,ThuJun 19,843e29c7c2aaab6163ea4037716a4e91
+2025-06-19 16:30:00,GBP,High Impact Expected,MPC Official Bank Rate Votes,0-3-6,0-2-7,0-7-2,ThuJun 19,b05281340aec4e035efdd61498bb2c58
+2025-06-19 16:30:00,GBP,High Impact Expected,Official Bank Rate,4.25%,4.25%,4.25%,ThuJun 19,7ab112aec77cb8dc5ade7dd784a735b3
+2025-06-19 16:30:00,GBP,Low Impact Expected,BOE Inflation Letter,,,,ThuJun 19,5cb01aa2153eed85ad940580d2dc95c2
+2025-06-19 17:30:00,USD,Non-Economic,Bank Holiday,,,,ThuJun 19,5c87d3dcfbd8e1000eb82cda1d33c247
+2025-06-20 01:30:00,NZD,Non-Economic,Bank Holiday,,,,FriJun 20,187466b8eca11d2160076d962fece8fb
+2025-06-20 04:31:00,GBP,Low Impact Expected,GfK Consumer Confidence,-18,-19,-20,FriJun 20,c7bc925c96b0d3af1a9647173cefb160
+2025-06-20 05:00:00,JPY,Low Impact Expected,National Core CPI y/y,3.7%,3.6%,3.5%,FriJun 20,691fff3cc29b51a4a5b2a10feb8b7c7c
+2025-06-20 05:20:00,JPY,Low Impact Expected,Monetary Policy Meeting Minutes,,,,FriJun 20,19d2ea1ac77bef9c4a20e16c9ed31749
+2025-06-20 06:30:00,CNY,Medium Impact Expected,1-y Loan Prime Rate,3.00%,3.00%,3.00%,FriJun 20,824bb1ca69b3ee5a0a324c8a2104c5fb
+2025-06-20 06:30:00,CNY,Medium Impact Expected,5-y Loan Prime Rate,3.50%,3.50%,3.50%,FriJun 20,b2ea7d493591a40bf121c67e0bb616df
+2025-06-20 11:30:00,EUR,Low Impact Expected,German PPI m/m,-0.2%,-0.3%,-0.6%,FriJun 20,ef80265f9b185b8e607ce0fb416012f5
+2025-06-20 11:30:00,GBP,High Impact Expected,Retail Sales m/m,-2.7%,-0.5%,1.2%,FriJun 20,932a6c0fe7ed9152b6ccc8c83690b1cd
+2025-06-20 11:30:00,GBP,Low Impact Expected,Public Sector Net Borrowing,17.7B,17.9B,20.2B,FriJun 20,edb29d1a61fc0d8c9babef5b5dd798eb
+2025-06-20 12:10:00,JPY,High Impact Expected,BOJ Gov Ueda Speaks,,,,FriJun 20,4cf27f8364b201fee3f059c8e64ef44a
+2025-06-20 13:30:00,EUR,Low Impact Expected,ECB Economic Bulletin,,,,FriJun 20,962bcdc92bc61cdbec3caf807d4314ec
+2025-06-20 13:45:00,EUR,Low Impact Expected,ECOFIN Meetings,,,,FriJun 20,44ceba7fe20127897610334fb2330018
+2025-06-20 14:38:00,CNY,Low Impact Expected,Foreign Direct Investment ytd/y,-13.2%,,-10.9%,FriJun 20,ab31ba0dd3c3e951e06ef69bb39218a2
+2025-06-20 18:00:00,CAD,Medium Impact Expected,Core Retail Sales m/m,-0.3%,-0.2%,-0.7%,FriJun 20,ceedb8a9408b5fd75d24ee76ae89a7b2
+2025-06-20 18:00:00,CAD,Medium Impact Expected,Retail Sales m/m,0.3%,0.4%,0.8%,FriJun 20,1407ba37fa72558418e4b406bf03cbec
+2025-06-20 18:00:00,CAD,Low Impact Expected,IPPI m/m,-0.5%,0.0%,-0.8%,FriJun 20,faa47859d17f991d1ae949d3533a57c8
+2025-06-20 18:00:00,CAD,Low Impact Expected,NHPI m/m,-0.2%,-0.2%,-0.4%,FriJun 20,1eca6ada8b23027e09bffefae78965b5
+2025-06-20 18:00:00,CAD,Low Impact Expected,RMPI m/m,-0.4%,-0.8%,-3.0%,FriJun 20,1321b919460ec7dfb8bef91352419063
+2025-06-20 18:00:00,USD,Medium Impact Expected,Philly Fed Manufacturing Index,-4.0,-1.7,-4.0,FriJun 20,0ceff9beff111438969df02eb015a53a
+2025-06-20 19:30:00,EUR,Low Impact Expected,Consumer Confidence,-15,-15,-15,FriJun 20,5eed0a29cbbc5f2ac4ae069ff9e1e4f6
+2025-06-20 19:30:00,USD,Low Impact Expected,CB Leading Index m/m,-0.1%,-0.1%,-1.0%,FriJun 20,25490faee098e6769ddf47a17bbd971d
+2025-06-20 20:30:00,USD,Low Impact Expected,Fed Monetary Policy Report,,,,FriJun 20,d7e956e5ae5ad49fe6b9a9fbf6b516cc
+2025-06-22 07:30:00,USD,High Impact Expected,President Trump Speaks,,,,SunJun 22,3bc94a35019127de6029981a6a3bd4e9
+2025-06-22 22:45:00,USD,Low Impact Expected,FOMC Member Daly Speaks,,,,SunJun 22,d225db52ca26cb8be1dad2b9e8ff80c2
+2025-06-23 04:30:00,AUD,Low Impact Expected,Flash Manufacturing PMI,51.0,,51.7,MonJun 23,48a923c138f19a258ce6b5eecbd99d66
+2025-06-23 04:30:00,AUD,Low Impact Expected,Flash Services PMI,51.3,,50.5,MonJun 23,19823c42dfd6ba4bff6d0def6a7031c8
+2025-06-23 06:00:00,JPY,Low Impact Expected,Flash Manufacturing PMI,50.4,49.5,49.0,MonJun 23,cf1b940bf99d8c576726df1784b10dbc
+2025-06-23 12:30:00,USD,Medium Impact Expected,FOMC Member Waller Speaks,,,,MonJun 23,46b12e6b82a3739343e9cc56ef0cea58
+2025-06-23 12:45:00,EUR,High Impact Expected,French Flash Manufacturing PMI,47.8,49.8,49.5,MonJun 23,4c18ac66b936b0643b011e51ba53538d
+2025-06-23 12:45:00,EUR,High Impact Expected,French Flash Services PMI,48.7,49.2,47.4,MonJun 23,0e9df8baf0a38c75c01046271597b2c8
+2025-06-23 13:00:00,EUR,High Impact Expected,German Flash Manufacturing PMI,49.0,48.9,48.8,MonJun 23,a299da112f807a1ad5a63a937fc2d7b2
+2025-06-23 13:00:00,EUR,High Impact Expected,German Flash Services PMI,49.4,47.8,47.2,MonJun 23,f153979e29466d031932698d3be36441
+2025-06-23 13:30:00,EUR,Medium Impact Expected,Flash Manufacturing PMI,49.4,49.6,49.4,MonJun 23,e371698b381ce513077d68096f77808e
+2025-06-23 13:30:00,EUR,Medium Impact Expected,Flash Services PMI,50.0,50.0,48.9,MonJun 23,bffcf7f65d46a5b59104e344a12561d7
+2025-06-23 14:00:00,GBP,High Impact Expected,Flash Manufacturing PMI,47.7,46.9,45.1,MonJun 23,1d3f05bc3998df72242bd230310d2148
+2025-06-23 14:00:00,GBP,High Impact Expected,Flash Services PMI,51.3,51.2,50.2,MonJun 23,f369f73a7fd352dfc0e60b051e5b1ab1
+2025-06-23 18:30:00,EUR,Medium Impact Expected,ECB President Lagarde Speaks,,,,MonJun 23,b7baf340536261ae74ef66ee4be6d530
+2025-06-23 19:15:00,USD,High Impact Expected,Flash Manufacturing PMI,52.0,51.1,52.3,MonJun 23,461e6ce143fe18f36a2f859b8e2950ea
+2025-06-23 19:15:00,USD,High Impact Expected,Flash Services PMI,53.1,52.9,52.3,MonJun 23,a9d7493b1eed9c47b8cd04455a8a9d66
+2025-06-23 19:30:00,USD,Medium Impact Expected,Existing Home Sales,4.03M,3.96M,4.00M,MonJun 23,b5cf5f673f725b8b67130ecb40b1bf4e
+2025-06-23 19:30:00,USD,Low Impact Expected,FOMC Member Bowman Speaks,,,,MonJun 23,aa87bf4fdbb7c072a91956424426943f
+2025-06-23 20:30:00,EUR,Low Impact Expected,German Buba President Nagel Speaks,,,,MonJun 23,77af7cc0d06d746047d0ce11cc43f247
+2025-06-23 22:40:00,USD,Low Impact Expected,FOMC Member Goolsbee Speaks,,,,MonJun 23,709d1464782508de0c1cc9cc662f60da
+2025-06-24 00:00:00,USD,Low Impact Expected,FOMC Member Kugler Speaks,,,,TueJun 24,7e98f9fa92dc8c38eeba7a51a3668626
+2025-06-24 00:00:00,USD,Low Impact Expected,FOMC Member Williams Speaks,,,,TueJun 24,736aa9f7c1e76e8bab330c1235a515a6
+2025-06-24 08:30:00,NZD,Low Impact Expected,Credit Card Spending y/y,2.2%,,0.5%,TueJun 24,4668d0d19e50ca3834b1dc72457fbba0
+2025-06-24 10:30:00,JPY,Low Impact Expected,BOJ Core CPI y/y,2.5%,2.5%,2.4%,TueJun 24,129238b51a81ee5d134eb91cbbb59941
+2025-06-24 13:30:00,EUR,Medium Impact Expected,German ifo Business Climate,88.4,88.1,87.5,TueJun 24,7324d41a9cb1e94c7ef7ea9f8f6fbb63
+2025-06-24 13:30:00,GBP,High Impact Expected,BOE Gov Bailey Speaks,,,,TueJun 24,82c26207dc532009ebe14e0daefeccba
+2025-06-24 15:00:00,GBP,Low Impact Expected,MPC Member Greene Speaks,,,,TueJun 24,3469eba1e0d8a8bfcef53576d3a3fe2f
+2025-06-24 15:30:00,GBP,Low Impact Expected,CBI Industrial Order Expectations,-33,-28,-30,TueJun 24,d2c5a2e179d0b78a3f5ad09673754fe1
+2025-06-24 18:00:00,CAD,High Impact Expected,CPI m/m,0.6%,0.5%,-0.1%,TueJun 24,ea68cccc51339fff10eb5f2f4d6ee2af
+2025-06-24 18:00:00,CAD,High Impact Expected,Median CPI y/y,3.0%,3.0%,3.2%,TueJun 24,fcbba9026eb5f8a2cd4c2aab723fe3cc
+2025-06-24 18:00:00,CAD,High Impact Expected,Trimmed CPI y/y,3.0%,3.0%,3.1%,TueJun 24,66c133461137078a27e12efd0fadf4d1
+2025-06-24 18:00:00,CAD,Medium Impact Expected,Common CPI y/y,2.6%,2.4%,2.5%,TueJun 24,5930451fb97f6d92d3cd9dc7371d77d2
+2025-06-24 18:00:00,CAD,Low Impact Expected,Core CPI m/m,0.6%,,0.5%,TueJun 24,93d5a730d93ec4cf5b2dfffe3f197c80
+2025-06-24 18:00:00,USD,Low Impact Expected,Current Account,-450B,-448B,-304B,TueJun 24,ced58f791b8804757e4a78cf339458e4
+2025-06-24 18:21:00,EUR,Low Impact Expected,Belgian NBB Business Climate,-10.1,-13.1,-13.5,TueJun 24,f9b40bed0cebefbb137178d412471f1d
+2025-06-24 18:30:00,EUR,Medium Impact Expected,ECB President Lagarde Speaks,,,,TueJun 24,0f0a19312c3754fbc2b85d37cc4c9d0c
+2025-06-24 18:30:00,USD,Low Impact Expected,HPI m/m,-0.4%,0.0%,-0.1%,TueJun 24,c3911ea2bf19564eb31004c0a11d292d
+2025-06-24 18:30:00,USD,Low Impact Expected,S&P/CS Composite-20 HPI y/y,3.4%,4.0%,4.1%,TueJun 24,ad42fa2af036ff4e95b94a4b6fcab492
+2025-06-24 18:45:00,USD,Low Impact Expected,FOMC Member Hammack Speaks,,,,TueJun 24,f9739d73cf56ff284d10f3b2d00808d3
+2025-06-24 19:05:00,GBP,Low Impact Expected,MPC Member Ramsden Speaks,,,,TueJun 24,70ed0e61e3d5ad39d83fc186cafa750b
+2025-06-24 19:29:00,USD,Medium Impact Expected,Richmond Manufacturing Index,-7,-10,-9,TueJun 24,7fed8dc7d0ea872612c78f4fc9ccfd6b
+2025-06-24 19:30:00,GBP,High Impact Expected,BOE Gov Bailey Speaks,,,,TueJun 24,aef09a2b84635bf85dc243c1dff6360f
+2025-06-24 19:30:00,USD,High Impact Expected,Fed Chair Powell Testifies,,,,TueJun 24,d02f7c8668f0aaeb19e8ffadb845f9d8
+2025-06-24 19:30:00,USD,Medium Impact Expected,CB Consumer Confidence,93.0,99.4,98.0,TueJun 24,b766324a35d3dd9e6407dbf00d753f1f
+2025-06-24 21:10:00,GBP,Low Impact Expected,MPC Member Pill Speaks,,,,TueJun 24,7b802712d774f07fe436acf5dc173bf5
+2025-06-24 21:20:00,GBP,Low Impact Expected,MPC Member Breeden Speaks,,,,TueJun 24,0c54c92348ca6e42b852ea5d59f7e591
+2025-06-24 22:00:00,USD,Low Impact Expected,FOMC Member Williams Speaks,,,,TueJun 24,5104ba667c249d83556ded2626a081e9
+2025-06-24 23:30:00,USD,Low Impact Expected,FOMC Member Collins Speaks,,,,TueJun 24,6135576701db4dc8dcedc9a1e4ff1e64

@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+selenium
+undetected-chromedriver
+js2py
+demjson3
+tqdm
+MetaTrader5
+psycopg2-binary

@@ -1,0 +1,77 @@
+2025-07-25 21:31:03,760 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 21:31:06,970 [INFO] 🌐 Scraping Forex Factory for week: 2025-06-25
+2025-07-25 21:31:14,054 [INFO] ✅ Saved 108 events → calendar/week_20250625.csv
+2025-07-25 21:31:16,283 [INFO] 🌐 Scraping Forex Factory for week: 2025-07-02
+2025-07-25 21:31:18,836 [INFO] ✅ Saved 78 events → calendar/week_20250702.csv
+2025-07-25 21:31:22,591 [INFO] 🌐 Scraping Forex Factory for week: 2025-07-09
+2025-07-25 21:31:25,572 [INFO] ✅ Saved 86 events → calendar/week_20250709.csv
+2025-07-25 21:31:29,867 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 21:35:02,865 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 21:35:05,917 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 21:35:05,917 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 21:35:05,918 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 21:35:06,070 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 21:35:06,127 [INFO] 🧾 Merged 3 files into candles\fx_news.csv
+2025-07-25 21:35:06,127 [INFO] 🎉 All weeks completed.
+2025-07-25 21:35:06,127 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 21:49:16,064 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 21:49:19,141 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 21:49:19,141 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 21:49:19,142 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 21:49:19,446 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 21:49:19,459 [INFO] 🧾 Merged 3 files into candles\fx_news.csv
+2025-07-25 21:49:19,459 [INFO] 🎉 All weeks completed.
+2025-07-25 21:49:19,459 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 21:49:45,361 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 21:49:48,102 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 21:49:48,102 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 21:49:48,103 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 21:49:48,263 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 21:49:48,274 [INFO] 🧾 Merged 3 files into candles\fx_news.csv
+2025-07-25 21:49:48,275 [INFO] 🎉 All weeks completed.
+2025-07-25 21:49:48,275 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 22:04:35,707 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 22:04:38,547 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 22:04:38,547 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 22:04:38,548 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 22:04:38,716 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 22:04:38,730 [INFO] 🧾 Merged 3 files into calendar\fx_news.csv
+2025-07-25 22:04:38,731 [INFO] 🎉 All weeks completed.
+2025-07-25 22:04:38,731 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 23:14:08,481 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 23:14:11,940 [INFO] 🌐 Scraping Forex Factory for week: 2025-06-25
+2025-07-25 23:14:20,682 [INFO] ✅ Saved 108 events → calendar/week_20250625.csv
+2025-07-25 23:14:23,305 [INFO] 🌐 Scraping Forex Factory for week: 2025-07-02
+2025-07-25 23:14:26,006 [INFO] ✅ Saved 78 events → calendar/week_20250702.csv
+2025-07-25 23:14:28,508 [INFO] 🌐 Scraping Forex Factory for week: 2025-07-09
+2025-07-25 23:14:30,788 [INFO] ✅ Saved 86 events → calendar/week_20250709.csv
+2025-07-25 23:14:33,444 [INFO] 🌐 Scraping Forex Factory for week: 2025-07-16
+2025-07-25 23:14:35,822 [INFO] ✅ Saved 80 events → calendar/week_20250716.csv
+2025-07-25 23:14:39,190 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 23:14:39,261 [INFO] 🧾 Merged 4 files into calendar\fx_news.csv
+2025-07-25 23:14:39,261 [INFO] 🎉 All weeks completed.
+2025-07-25 23:14:39,261 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 23:17:26,080 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 23:17:29,377 [INFO] 🌐 Scraping Forex Factory for week: 2025-06-11
+2025-07-25 23:17:39,141 [INFO] ✅ Saved 78 events → calendar/week_20250611.csv
+2025-07-25 23:17:42,347 [INFO] 🌐 Scraping Forex Factory for week: 2025-06-18
+2025-07-25 23:17:49,285 [INFO] ✅ Saved 113 events → calendar/week_20250618.csv
+2025-07-25 23:17:51,670 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 23:17:51,670 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 23:17:51,671 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 23:17:51,671 [INFO] 📁 Already scraped: calendar\week_20250716.csv
+2025-07-25 23:17:52,272 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 23:17:52,321 [INFO] 🧾 Merged 6 files into calendar\fx_news.csv
+2025-07-25 23:17:52,322 [INFO] 🎉 All weeks completed.
+2025-07-25 23:17:52,322 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
+2025-07-25 23:20:16,939 [INFO] patching driver executable C:\Users\michaelsr\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-25 23:20:20,083 [INFO] 📁 Already scraped: calendar\week_20250611.csv
+2025-07-25 23:20:20,083 [INFO] 📁 Already scraped: calendar\week_20250618.csv
+2025-07-25 23:20:20,084 [INFO] 📁 Already scraped: calendar\week_20250625.csv
+2025-07-25 23:20:20,084 [INFO] 📁 Already scraped: calendar\week_20250702.csv
+2025-07-25 23:20:20,084 [INFO] 📁 Already scraped: calendar\week_20250709.csv
+2025-07-25 23:20:20,085 [INFO] 📁 Already scraped: calendar\week_20250716.csv
+2025-07-25 23:20:20,262 [INFO] 🔄 Merging all weekly CSVs...
+2025-07-25 23:20:20,284 [INFO] 🧾 Merged 6 files into calendar\fx_news.csv
+2025-07-25 23:20:20,284 [INFO] 🎉 All weeks completed.
+2025-07-25 23:20:20,284 [INFO] 📁 Check your data in: C:\Users\michaelsr\data_pipeline\calendar
